@@ -11,4 +11,4 @@ sudo apt-get install libsdl2-dev
 
 Key bit is the `linkopts = ["-lSDL2"]` directive in `cc_binary`
 
-
+Hopefully this shows up for someone doing similar Google searches in the future.
